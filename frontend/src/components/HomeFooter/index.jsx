@@ -26,7 +26,7 @@ const FinchLanding = () => {
           </div>
         </div>
         <footer className="text-gray-600 text-xs md:text-sm mt-8 text-center">
-          <p>Copyright © 2025, Beşirağa Külliyesi | ÖNDER İmam Hatipliler Derneği</p>
+          <p>Tüm Hakları Saklıdır. © 2025, Beşirağa Külliyesi | ÖNDER İmam Hatipliler Derneği</p>
         </footer>
       </main>
     </div>
